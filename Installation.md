@@ -1,9 +1,9 @@
-Commencer par vérifier et installer les mises à jour sur votre Raspberry Pi.
+Commencer par vérifier et installer les mises à jour sur votre Raspberry Pi.<br>
 Taper la commande :
 ```
 sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y
 ```
-Maintenant on va installer le Module "Klipper Led_effect":
+Maintenant on va installer le Module "Klipper Led_effect":<br>
 Taper la commande:
 ```
 cd ~
@@ -12,7 +12,7 @@ cd klipper-led_effect
 ./install-led_effect.sh
 ```
 
-Ensuite on va integrer les mises à jour dans "Mooraker.conf":
+Ensuite on va integrer les mises à jour dans "Mooraker.conf":<br>
 Ajouter ceci:
 ```
 [update_manager led_effect]
