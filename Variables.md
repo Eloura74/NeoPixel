@@ -54,13 +54,13 @@ variable_colors: {
 variable_logo_led_name:         "sb_leds" 
 
 # Numéro des LED séparés par des virgules dans le logo.
-variable_logo_idx:              "1,2,3,4,5,6,7,8" 
+variable_logo_idx:              "1" 
 
 # Le nom de la chaîne de LED adressables qui contient la ou les LED de la buse.
 variable_nozzle_led_name:       "sb_leds"
  
 # Numéro des LED séparés par des virgules dans la buse.
-variable_nozzle_idx:            "9,10"
+variable_nozzle_idx:            "2,3"
 
 # Températures auxquelles le refroidissement sera considéré comme complet:
 variable_thermal_config: {
