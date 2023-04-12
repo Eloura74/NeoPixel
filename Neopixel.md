@@ -1,3 +1,13 @@
+<table align="center">
+  <tr>
+    <td align="center">
+      <h1>NeoPixel</h1>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 **Configuration des Neopixels** <br>
 <br>
 Pour configurer les Néopixels dans Klipper, vous aurez besoin de définir les paramètres appropriés dans la section [neopixel] de votre fichier de configuration. <br>
