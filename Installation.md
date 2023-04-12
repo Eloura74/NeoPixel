@@ -41,4 +41,4 @@ is_system_service: False
 ```
 
 Voilà c'est tout pour l'installation. <br>
-Il ne vous reste plus qu'à configurer les [Néopixels](https://github.com/Eloura74/NeoPixel/blob/main/Neopixel.md).
+Il nous faut maintenant configurer les [Néopixels](https://github.com/Eloura74/NeoPixel/blob/main/Neopixel.md).
