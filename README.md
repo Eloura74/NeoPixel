@@ -2,7 +2,7 @@
 
 <br>
 
-**Instalation de Led_Effect pour néopixel**<br>
+**Instalation de Led_Effect pour neopixel**<br>
 
 
 ![image](https://github.com/Eloura74/NeoPixel/blob/main/Readme.jpg?raw=true)
@@ -10,7 +10,7 @@
 
 <br>
 
-**On vas voir simplement comment installer KlipperLedEffect** <br>
+**On va voir comment installer KlipperLedEffect en quatre étapes:** <br>
 
 <br>
 
