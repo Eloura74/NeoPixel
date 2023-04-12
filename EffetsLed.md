@@ -10,7 +10,7 @@ On l'inclus ensuite au printer.cfg: <br>
 
 <br>
 
-**Parie ON/OFF**
+**Partie ON/OFF**
 
 ```
 # Logo OFF/ON:
@@ -122,4 +122,4 @@ layers:
 
 ```
 
-**Vous trouverez plus d'information sur la page [officiel](https://github.com/julianschill/klipper-led_effect/blob/master/docs/LED_Effect.md) du site pour avoir d'autre rendus.
+**Vous trouverez plus d'information sur la page [officiel](https://github.com/julianschill/klipper-led_effect/blob/master/docs/LED_Effect.md) du site pour avoir d'autre rendus.**
