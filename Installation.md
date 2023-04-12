@@ -5,11 +5,21 @@ Taper la commande :
 sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y
 ```
 Maintenant on va installer le Module "Klipper Led_effect":<br>
-Taper la commande:
+**Taper les commandes suivantes:**<br>
+On va tout d'abord nous déplacer dans le répertoire personnel de l'utilisateur:
 ```
 cd ~
+```
+Ensuite cette commande clône un dépôt Git depuis GitHub. Elle crée une copie locale du dépôt "klipper-led_effect" dans le répertoire courant:
+```
 git clone https://github.com/julianschill/klipper-led_effect.git
+```
+
+```
 cd klipper-led_effect
+```
+
+```
 ./install-led_effect.sh
 ```
 
