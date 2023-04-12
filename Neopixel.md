@@ -43,3 +43,4 @@ Ensuite il vous faudrat l'inclure dans votre printer.cfg avec ceci: <br>
 ```
 
 <br>
+On va maintenant aller voir ICI pour configurer les effets désirés.
