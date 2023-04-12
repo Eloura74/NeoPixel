@@ -43,4 +43,4 @@ Ensuite il vous faudrat l'inclure dans votre printer.cfg avec ceci: <br>
 ```
 
 <br>
-On va maintenant aller voir ICI pour configurer les effets désirés.
+On va maintenant aller voir [ICI](https://github.com/Eloura74/NeoPixel/blob/main/LedEffect.md) pour configurer les effets désirés.
