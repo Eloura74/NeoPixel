@@ -40,4 +40,5 @@ origin: https://github.com/julianschill/klipper-led_effect.git
 is_system_service: False
 ```
 
-Voilà c'est tout pour l'installation. Il ne vous reste plus qu'à configurer les [Néopixels](https://github.com/Eloura74/NeoPixel/blob/main/README.md).
+Voilà c'est tout pour l'installation. <br>
+Il ne vous reste plus qu'à configurer les [Néopixels](https://github.com/Eloura74/NeoPixel/blob/main/Neopixel.md).
