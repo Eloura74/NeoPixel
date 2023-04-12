@@ -118,3 +118,5 @@ gcode:
 
 
 ```
+
+On va ensuite pouvoir passer à la création des différents [effets et macros](https://github.com/Eloura74/NeoPixel/blob/main/EffetsLed.md)
