@@ -10,7 +10,11 @@
 
 **Installation de Led_Effect pour Neopixel**<br>
 
-![image](https://github.com/Eloura74/NeoPixel/blob/main/Readme.jpg?raw=true)
+|                              |
+|:----------------------------:|
+| <img src="https://github.com/Eloura74/NeoPixel/blob/main/Readme.jpg?raw=true" width="50%"> |
+
+
 
 <br>
 
