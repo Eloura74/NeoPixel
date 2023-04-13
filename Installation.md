@@ -10,15 +10,28 @@
 
 ![image](https://media.printables.com/media/prints/424552/images/3513078_8d1e1e1d-9b91-4a44-b07d-d7ec10c436a1/thumbs/cover/1200x630/jpg/img_20230314_112653.jpg)
 <br>
-**Commencer par vérifier et installer les mises à jour sur votre Raspberry Pi:**<br>
+<tr>
+    <td align="center">
+      <h1>Commencer par vérifier et installer les mises à jour sur votre Raspberry Pi:</h1>
+    </td>
+  </tr>
 <br>
+
+
 *Taper la commande :*
 <br>
+
 ```
 sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y
 ```
-**Maintenant on va installer le Module "Klipper Led_effect":**<br>
+<tr>
+    <td align="center">
+      <h1>Maintenant on va installer le Module "Klipper Led_effect":</h1>
+    </td>
+  </tr>
+
 <br>
+
 *Taper les commandes suivantes:*<br>
 <br>
 On va tout d'abord nous déplacer dans le répertoire personnel de l'utilisateur:
@@ -38,8 +51,14 @@ On va maintenant utiliser cette commande pour exécuter le script d'installation
 ./install-led_effect.sh
 ```
 
-**Ensuite on va integrer les mises à jour dans "Mooraker.conf":**<br>
-<br>
+<tr>
+    <td align="center">
+      <h1>Ensuite on va integrer les mises à jour dans "Mooraker.conf":</h1>
+    </td>
+  </tr>
+
+
+
 *Ajouter ceci:*
 <br>
 ```
