@@ -6,9 +6,7 @@
   </tr>
 </table>
 
-<br>
 
-**Installation de Led_Effect pour Neopixel**<br>
 
 |                              |
 |:----------------------------:|
