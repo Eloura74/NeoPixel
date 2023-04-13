@@ -1,8 +1,25 @@
-# Variables
+<p align="center">
+  <img src="https://media.printables.com/media/prints/424552/images/3513078_8d1e1e1d-9b91-4a44-b07d-d7ec10c436a1/thumbs/cover/1200x630/jpg/img_20230314_112653.jpg" width="50%">
+</p>
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <h1>Variables</h1>
+    </td>
+  </tr>
+</table>
+
+
 <br>
-Ces variables sont utilisées pour définir les couleurs associées à différents états ou modes de fonctionnement d'un éclairage pour une buse ou d'un logo Z dans un code de commande numérique. <br>
-Chaque état ou mode a une couleur associée définie en utilisant les valeurs de rouge (r), vert (g), bleu (b), et blanc (w) dans une échelle de 0 à 1 pour chaque composante de couleur. <br>
+Ces variables sont utilisées pour définir les couleurs associées à différents états ou modes de fonctionnement d'un éclairage pour une buse ou d'un logo Z dans un code de commande numérique. 
+<br>
+<br> 
+Chaque état ou mode a une couleur associée définie en utilisant les valeurs de rouge (r), vert (g), bleu (b), et blanc (w) dans une échelle de 0 à 1 pour chaque composante de couleur. 
+<br>
+<br>
 Les variables permettent de définir les couleurs utilisées dans le code de manière claire et modifiable.<br>
+<br>
 <br>
 Il vous faudras créer un nouveau fichier que l'on nommera "Variables_led.cfg" et l'inclure dans votre printer.cfg
 <br>
