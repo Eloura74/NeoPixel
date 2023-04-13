@@ -36,8 +36,8 @@ Enfin, vous pouvez définir les valeurs initiales des composantes de couleur rou
 
 ```
 [neopixel name_neopixel]
-# Vous pouvez mettre le nom que vous 
-# souhaitez à vos Néopixels
+  # Vous pouvez mettre le nom que vous 
+  # souhaitez à vos Néopixels
 
 pin:
   # Numéro de broche du microcontrôleur 
