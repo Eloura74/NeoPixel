@@ -1,4 +1,16 @@
-**Configuration des différents effets** <br>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h1>Configuration des différents effets</h1>
+    </td>
+  </tr>
+</table>
+
+
+<p align="center">
+  <img src="https://media.printables.com/media/prints/424552/images/3513078_8d1e1e1d-9b91-4a44-b07d-d7ec10c436a1/thumbs/cover/1200x630/jpg/img_20230314_112653.jpg" width="50%">
+</p>
+
 <br>
 
 Vous devez ajouter un nouveau fichier pour pouvoir mettre tout les effets que vous aller créer. On peux le nommer "EffetsLed.cfg". <br>
@@ -10,7 +22,13 @@ On l'inclus ensuite au printer.cfg: <br>
 
 <br>
 
-**Partie ON/OFF**
+<tr>
+    <td align="center">
+      <h1>Partie ON/OFF</h1>
+    </td>
+  </tr>
+<br>
+
 
 ```
 # Logo OFF/ON:
@@ -60,8 +78,13 @@ gcode:
     STOP_LED_EFFECTS
     
 ```
+<tr>
+    <td align="center">
+      <h1>Exemple pour un statut lors du mesh:</h1>
+    </td>
+  </tr>
+<br>
 
-**Exemple pour un statut lors du mesh:** <br>
 
 ```
 [gcode_macro status_meshing]
@@ -71,8 +94,13 @@ gcode:
     set_nozzle_leds_on
 
 ```
+<tr>
+    <td align="center">
+      <h1>Extinction des Leds au bout d'un certain temps:</h1>
+    </td>
+  </tr>
+<br>
 
-**Extinction des Leds au bout d'un certain temps:** <br>
 Mettre STOP_EFFECT_DURATION à la fin de votre START_PRINT.
 
 ```
@@ -85,8 +113,13 @@ gcode:
     Buse_off
     
 ```
+<tr>
+    <td align="center">
+      <h1>Exemple d'effet de dégradé Bleu:</h1>
+    </td>
+  </tr>
+<br>
 
-**Exemple d'effet de dégradé Bleu:** <br>
 
 ```
 # Effet rainbow bleu sur logo:
@@ -107,8 +140,13 @@ gcode:
     SET_LED_EFFECT EFFECT=chauffe_logo
     
 ```
+<tr>
+    <td align="center">
+      <h1>On peux demander une couleur spécifique à une certaine température :</h1>
+    </td>
+  </tr>
+<br>
 
-**On peux demander une couleur spécifique à une certaine température :** <br>
 
 ```
 [led_effect bed_hot]
